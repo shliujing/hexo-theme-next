@@ -33,7 +33,7 @@ menu:
   #about: /about
   archives: /archives
   tags: /tags
-  #commonweal: /404.html
+  commonweal: /404.html
 
 
 # Enable/Disable menu icons.
@@ -120,7 +120,8 @@ social:
   GitHub: https://github.com/shliujing
   Zhihu:  https://www.zhihu.com/people/shliujing
   Weibo: http://weibo.com/cnliujing
-  Douban: https://www.douban.com/people/shliujing/
+  Email: mailto:i@iamlj.com
+  # Douban: https://www.douban.com/people/shliujing/
 
 # Social Links Icons
 # Icon Mapping:
@@ -136,7 +137,7 @@ social_icons:
   Weibo: weibo
   Zhihu: globe
   Douban: globe
-
+  Email: envelope
 
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.png
@@ -203,7 +204,7 @@ custom_logo:
 # Available value:
 #    normal | night | night eighties | night blue | night bright
 # https://github.com/chriskempson/tomorrow-theme
-highlight_theme: night normal
+highlight_theme: normal
 
 
 # Automatically scroll page to section which is under <!-- more --> mark.
@@ -232,7 +233,7 @@ auto_excerpt:
 
 # MathJax Support 使用bootstrap cdn
 mathjax:
-  enable: true
+  enable: false
   cdn: //cdn.bootcss.com/mathjax/2.6.1/MathJax.js
 
 # Swiftype Search API Key
@@ -280,9 +281,9 @@ duoshuo_hotartical: true
 # you can visit http://dev.duoshuo.com get duoshuo user id.
 duoshuo_info:
   ua_enable: true
-  admin_enable: false
-  user_id: 0
-  #admin_nickname: Author
+  admin_enable: true
+  user_id: 13788476
+  admin_nickname: 博主
 
 
 # Facebook SDK Support.
@@ -396,3 +397,7 @@ images: images
 
 # Theme version
 version: 5.0.1
+
+reward_comment: 坚持原创技术分享，您的支持将鼓励我继续创作！
+wechatpay: http://7xncbk.com1.z0.glb.clouddn.com/16-7-7/43674668.jpg
+alipay: http://7xncbk.com1.z0.glb.clouddn.com/16-7-6/39125633.jpg
