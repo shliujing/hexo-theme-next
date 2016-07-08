@@ -6,7 +6,7 @@
 favicon: /favicon.ico
 
 # Set default keywords (Use a comma to separate)
-keywords: "iamlj,hexo,Liujing,lj,tech"
+keywords: "iamlj,刘靖,Jing,Liujing,lj,tech,hexo,markdown,blog"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -33,7 +33,7 @@ menu:
   #about: /about
   archives: /archives
   tags: /tags
-  commonweal: /404.html
+  # commonweal: /404.html
 
 
 # Enable/Disable menu icons.
@@ -50,7 +50,6 @@ menu_icons:
   tags: tags
   archives: archive
   commonweal: heartbeat
-
 
 # ---------------------------------------------------------------
 # Scheme Settings
