@@ -1,3 +1,19 @@
+# 我的修改
+
+_config.yml
+
+调整宽度
+source\css\_schemes\Pisces\_layout.styl
+source\css\_variables\base.styl
+
+增加演示
+source\demo
+
+修改热度
+languages\zh-Hans.yml
+layout\_scripts\third-party\lean-analytics.swig
+
+
 # NexT
 
 > 精于心，简于形
