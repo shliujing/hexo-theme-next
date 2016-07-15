@@ -1,3 +1,9 @@
+# 我的修改
+
+_config.yml
+source\css\_schemes\Pisces\_layout.styl
+source\css\_variables\base.styl
+
 # NexT
 
 > 精于心，简于形
