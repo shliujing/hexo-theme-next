@@ -286,7 +286,6 @@ duoshuo_info:
   user_id: 13788476
   admin_nickname: 博主
 
-
 # Facebook SDK Support.
 # https://github.com/iissnan/hexo-theme-next/pull/410
 facebook_sdk:
@@ -332,10 +331,8 @@ busuanzi_count:
 # Tencent analytics ID
 # tencent_analytics:
 
-# Enable baidu push so that the blog will push the url to baidu automatically which is very helpful for SEO
-baidu_push: false
-
-
+# Enable baidu push so that the blog will push the url to baidu automatically which is very helpful for SEO，百度推送网站地图
+baidu_push: true
 
 #! ---------------------------------------------------------------
 #! DO NOT EDIT THE FOLLOWING SETTINGS
@@ -402,3 +399,6 @@ version: 5.0.1
 # reward_comment: 坚持原创技术分享，您的支持将鼓励我继续创作！
 # wechatpay: http://7xncbk.com1.z0.glb.clouddn.com/16-7-7/43674668.jpg
 # alipay: http://7xncbk.com1.z0.glb.clouddn.com/16-7-6/39125633.jpg
+
+# 百度验证
+baidu_site_verification: k2EGFRaIhN
