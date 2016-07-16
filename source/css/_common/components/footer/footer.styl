@@ -12,10 +12,20 @@
   margin: 0 5px;
 }
 
-.powered-by,
-.theme-info { display: inline-block; }
+.powered-by, .theme-info { display: inline-block; }
 
 .powered-by {
+  margin-right: 10px;
+
+  &::after {
+    content: "|";
+    padding-left: 10px;
+  }
+}
+
+.language-switch { display: inline-block; }
+
+.theme-info {
   margin-right: 10px;
 
   &::after {
