@@ -71,6 +71,7 @@
   {% include '_scripts/third-party/mathjax.swig' %}
   {% include '_scripts/third-party/lean-analytics.swig' %}
   {% include '_scripts/baidu-push.swig' %}
+  {% include '_scripts/qihu-push.swig' %}
 
 </body>
 </html>

@@ -338,6 +338,10 @@ busuanzi_count:
 # Enable baidu push so that the blog will push the url to baidu automatically which is very helpful for SEO，百度推送网站地图
 baidu_push: true
 
+qihu_push: 
+  enable: true
+  id: 5d1b411d886fb12fbd647aa010431b73
+
 #! ---------------------------------------------------------------
 #! DO NOT EDIT THE FOLLOWING SETTINGS
 #! UNLESS YOU KNOW WHAT YOU ARE DOING
@@ -406,3 +410,6 @@ version: 5.0.1
 
 # 百度验证
 baidu_site_verification: k2EGFRaIhN
+
+# 360
+qihu_site_verification: ac682254a9b2d9ee3a8827d423f3d893
