@@ -338,6 +338,7 @@ busuanzi_count:
 # Enable baidu push so that the blog will push the url to baidu automatically which is very helpful for SEO，百度推送网站地图
 baidu_push: true
 
+# http://zhanzhang.so.com/?m=SiteMapAuto 360自动收录功能
 qihu_push: 
   enable: true
   id: 5d1b411d886fb12fbd647aa010431b73
