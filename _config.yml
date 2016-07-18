@@ -1,4 +1,4 @@
-# ---------------------------------------------------------------
+baidu_analytics# ---------------------------------------------------------------
 # Site Information Settings
 # ---------------------------------------------------------------
 
@@ -271,11 +271,10 @@ duoshuo_hotartical: true
 
 # Google Webmaster tools verification setting
 # See: https://www.google.com/webmasters/
-#google_site_verification:
-
+google_site_verification: 8gn8TTGjhvc_3OgBNSsj1BbaiJ5ftGRIZg8zpTFGgIo
 
 # Google Analytics
-#google_analytics:
+google_analytics: UA-68500175-1
 
 # CNZZ count
 #cnzz_siteid:
@@ -414,6 +413,3 @@ baidu_site_verification: k2EGFRaIhN
 
 # 360
 qihu_site_verification: ac682254a9b2d9ee3a8827d423f3d893
-
-# 谷歌验证
-google_site_verification: 8gn8TTGjhvc_3OgBNSsj1BbaiJ5ftGRIZg8zpTFGgIo
